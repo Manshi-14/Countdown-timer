@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url("./Images/mountain2.jpg");
+  background-image: url("./mountain2.jpg");
   background-size: cover;
   background-position: center center; /*center from left and top */
   min-height: 100vh;
